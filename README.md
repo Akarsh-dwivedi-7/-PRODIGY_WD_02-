@@ -52,7 +52,7 @@ Welcome to the Stopwatch Web Application repository! This project is a fully fun
 •script.js: The JavaScript file for functionality and logic.
 
 🔗 Live Demo
-Check out the live demo of the project here: [Live Demo Link]
+Check out the live demo of the project here: [(https://akarsh-dwivedi-7.github.io/-PRODIGY_WD_02-/)]
 
 📝 Learning Outcomes
 This project helped me:
